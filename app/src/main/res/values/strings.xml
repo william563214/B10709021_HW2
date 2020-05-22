@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">B10709021_HW2</string>
+    <string name="title_activity_setting">setting</string>
+    <string name="guest_name_hint">Guest name</string>
+    <string name="party_size_hint">Party size (max 99)</string>
+    <string name="add_button_text">ADD</string>
+    <string name="default_guest_name">[Guest name]</string>
+    <string name="default_party_size">\?</string>
+    <string name="action_settings">ActionSetting</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="guest_name">GUEST NAME</string>
+    <string name="pref_label">Color</string>
+    <string name="pref_light">Light</string>
+    <string name="pref_dark">Dark</string>
+    <string name="pref_label_key" translatable="false">Color</string>
+    <string name="pref_light_value" translatable="false">#7986CB</string>
+    <string name="pref_dark_value" translatable="false">#303F9F</string>
+</resources>
